@@ -240,6 +240,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-oss-ux&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="32%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-oss-ux&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=ffffff&area=true&hide_border=true&area_color=7B2FBE60&custom_title=Contribution+Activity" width="64%"/>
 
+<br/><br/>
+
+### ⟨ Coding Habits & Achievements ⟩
+
+<img src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/metrics-habits.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/metrics-achievements.svg" width="49%"/>
+
 </div>
 
 <br/>
@@ -276,11 +283,17 @@
 <!--                    TROPHIES                                          -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏆 GitHub Trophies & Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=hacker-oss-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="100%"/>
+
+<br/><br/>
+
+### ⟨ Holopin Achievements Board ⟩
+
+[![@hackerossux's Holopin board](https://holopin.me/hackerossux)](https://holopin.io/@hackerossux)
 
 </div>
 
@@ -294,7 +307,7 @@
 <!--               CONTRIBUTION SNAKE                                     -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🐍 Eating My Contributions
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🐍 Contribution Skyline & Snake
 
 <div align="center">
 
@@ -307,6 +320,12 @@
     src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"
     width="100%"/>
 </picture>
+
+<br/><br/>
+
+### ⟨ 3D Isometric Calendar ⟩
+
+<img src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/metrics-isocalendar.svg" alt="3D Isometric Calendar" width="100%"/>
 
 </div>
 
@@ -329,7 +348,7 @@
 <td align="center" width="190">
 
 ### LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hacker-oss-ux/)
 🔥 Daily Challenges
 ⚡ DSA Grinder
 
@@ -360,6 +379,16 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+### ⟨ LeetCode Real-Time Stats ⟩
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hacker-oss-ux?theme=dark&font=Outfit)](https://leetcode.com/u/hacker-oss-ux/)
+
+</div>
 
 <br/>
 

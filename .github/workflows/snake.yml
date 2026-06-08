@@ -1,4 +1,4 @@
-name: 🐍 Generate Snake Animation
+name: 🔄 Update Profile Assets
 
 on:
   # Run every 12 hours automatically
@@ -13,11 +13,17 @@ on:
 
 jobs:
   generate:
-    name: Generate Snake SVG
+    name: Generate Profile Assets
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
+      - name: 📂 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 📂 Create dist directory
+        run: mkdir -p dist
+
       - name: 🐍 Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,6 +31,41 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 🏔️ Generate 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+
+      - name: 🧠 Generate Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-habits.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
+          output_action: none
+
+      - name: 🏅 Generate Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          output_action: none
 
       - name: 🚀 Push Output to `output` Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
