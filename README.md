@@ -113,9 +113,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=7B2FBE&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-> 🎵 **Setup:** Visit [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) → Login with Spotify → Replace `YOUR_SPOTIFY_USER_ID` above with your actual Spotify UID.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317sb5bkk5kjjicz2hvctax77ede&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=7B2FBE&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317sb5bkk5kjjicz2hvctax77ede&redirect=true)
 
 </div>
 
