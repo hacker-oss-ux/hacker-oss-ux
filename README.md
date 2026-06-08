@@ -1,96 +1,100 @@
-<!-- ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗       ██████╗ ███████╗███████╗    ██╗   ██╗██╗  ██╗ -->
-<!-- ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗     ██╔═══██╗██╔════╝██╔════╝    ██║   ██║╚██╗██╔╝ -->
-<!-- ███████║███████║██║     █████╔╝ █████╗  ██████╔╝     ██║   ██║███████╗███████╗    ██║   ██║ ╚███╔╝  -->
-<!-- ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗     ██║   ██║╚════██║╚════██║    ██║   ██║ ██╔██╗  -->
-<!-- ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║     ╚██████╔╝███████║███████║    ╚██████╔╝██╔╝ ██╗ -->
-<!-- ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═════╝ ╚══════╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝ -->
+<!-- ================================================================== -->
+<!--                                                                      -->
+<!--        ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗              -->
+<!--        ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗             -->
+<!--        ███████║███████║██║     █████╔╝ █████╗  ██████╔╝             -->
+<!--        ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗             -->
+<!--        ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║             -->
+<!--        ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝            -->
+<!--                                                                      -->
+<!--    AJAY GIRISH | hacker-oss-ux | GITHUB PROFILE README               -->
+<!--    Full-Stack Dev • Security Enthusiast • Competitive Coder           -->
+<!--                                                                      -->
+<!-- ================================================================== -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HERO BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                         HERO BANNER                                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ajay%20Girish&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast%20%7C%20Competitive%20Coder&descSize=18&descAlignY=58&descAlign=50&stroke=6E40C9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Ajay%20Girish&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C%20Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Competitive%20Coder%20%2F%3E&descSize=20&descAlignY=60&descAlign=50&stroke=7B2FBE&strokeWidth=3" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                      TYPING ANIMATION                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%F0%9F%92%BB+Building+the+Web%2C+One+Line+at+a+Time;%F0%9F%94%90+Passionate+about+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8F%86+Competitive+Programmer+%7C+Problem+Solver;%F0%9F%9A%80+Turning+Ideas+into+Scalable+Products;%F0%9F%87%AE%F0%9F%87%B3+Proudly+Building+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=700&color=7B2FBE&center=true&vCenter=true&random=false&width=750&height=55&lines=%F0%9F%92%BB+Architecting+Full-Stack+Web+Applications;%F0%9F%94%90+Ethical+Hacker+%26+Security+Researcher;%F0%9F%8F%86+Competitive+Programmer+%7C+DSA+Enthusiast;%F0%9F%9A%80+Turning+Ideas+into+Scalable+SaaS+Products;%F0%9F%90%A7+Linux+Lover+%7C+Terminal+Power+User;%F0%9F%87%AE%F0%9F%87%B3+Proudly+Hacking+from+India+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    BADGES ROW                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       STATUS BADGES                                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=hacker-oss-ux&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/hacker-oss-ux?style=for-the-badge&color=6E40C9&logo=github&logoColor=white&label=Followers)](https://github.com/hacker-oss-ux)
-[![GitHub stars](https://img.shields.io/github/stars/hacker-oss-ux?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=Stars)](https://github.com/hacker-oss-ux)
-![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=hacker-oss-ux&color=7B2FBE&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/hacker-oss-ux?style=for-the-badge&color=7B2FBE&logo=github&logoColor=white&label=Followers)](https://github.com/hacker-oss-ux?tab=followers)
+[![Stars](https://img.shields.io/github/stars/hacker-oss-ux?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=⭐+Stars)](https://github.com/hacker-oss-ux)
+![Open to Work](https://img.shields.io/badge/💼_Open_To-Collaborate-00C851?style=for-the-badge)
+![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               DECORATIVE DIVIDER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                        ABOUT ME                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;`whoami`
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Hacker Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```typescript
-/**
- * ╔══════════════════════════════════════╗
- * ║         AJAY GIRISH — PROFILE        ║
- * ╚══════════════════════════════════════╝
- */
+```bash
+┌──(hacker-oss-ux㉿india)-[~]
+└─$ cat about_me.json
+```
 
-const ajayGirish: Developer = {
-  name:        "Ajay Girish",
-  alias:       "hacker-oss-ux",
-  location:    "🇮🇳 India",
+```json
+{
+  "name"        : "Ajay Girish",
+  "alias"       : "hacker-oss-ux",
+  "location"    : "🇮🇳 India",
+  "pronouns"    : "he/him",
 
-  roles: [
-    "Full-Stack Web Developer",
-    "Backend & Systems Engineer",
-    "Cybersecurity Enthusiast",
-    "Competitive Programmer",
-  ],
-
-  currentlyLearning: [
-    "Advanced System Design",
-    "Penetration Testing",
-    "Cloud Architecture (AWS)",
-  ],
-
-  currentlyBuilding: [
-    "⚡ A Full-Stack SaaS Platform",
-    "🎮 GestureGames (CV + Unity)",
-  ],
-
-  achievements: [
-    "🔐 Ethical Hacking & Pentesting",
+  "roles" : [
+    "🌐 Full-Stack Web Developer",
+    "🔐 Cybersecurity & Ethical Hacker",
+    "⚙️  Backend & Systems Engineer",
     "🏆 Competitive Programmer",
-    "🌍 Open Source Contributor",
+    "🎓 Lifelong Learner"
   ],
 
-  funFact: "I find vulnerabilities by day & ship features by night 🌙",
-  motto:   "Code. Break. Fix. Repeat. 🔁",
-};
+  "currently_building" : [
+    "⚡ Full-Stack SaaS Platform (stealth mode)",
+    "🎮 GestureGames — CV-powered gaming"
+  ],
+
+  "currently_learning" : [
+    "☁️  Cloud Architecture & AWS",
+    "🔑 Advanced Penetration Testing",
+    "🏗️  Distributed System Design"
+  ],
+
+  "interests" : [
+    "Open Source", "CTF Competitions",
+    "Security Research", "Game Dev"
+  ],
+
+  "fun_fact"  : "I find bugs in systems before breakfast ☕🔍",
+  "motto"     : "Code. Break. Learn. Repeat. 🔁"
+}
 ```
 
 <br clear="right"/>
@@ -101,80 +105,17 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  SKILLS & TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                     SPOTIFY NOW PLAYING                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Skills & Tech Stack
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6om0Sk2/giphy.gif" width="28"/> &nbsp;Vibe Check — Now Playing 🎵
 
 <div align="center">
 
-### 〔 Languages & Core Skills 〕
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=7B2FBE&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
 
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>
-  <b>C++</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/>
-  <b>Python</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br/>
-  <b>JavaScript</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/>
-  <b>HTML5</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>
-  <b>CSS3</b>
-</td>
-</tr>
-</table>
-
-### 〔 Databases & Operating Systems 〕
-
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/><br/>
-  <b>PostgreSQL</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br/>
-  <b>Linux</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50"/><br/>
-  <b>Ubuntu</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/><br/>
-  <b>Bash</b>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br/>
-  <b>Git</b>
-</td>
-</tr>
-</table>
-
-### 〔 Domain Expertise 〕
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1A2E?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D0D1A)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-1A1A2E?style=for-the-badge&logo=kalilinux&logoColor=FF6B6B&labelColor=0D0D1A)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-1A1A2E?style=for-the-badge&logo=metasploit&logoColor=E95420&labelColor=0D0D1A)
-![Web Development](https://img.shields.io/badge/Web%20Development-1A1A2E?style=for-the-badge&logo=googlechrome&logoColor=41BDF5&labelColor=0D0D1A)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-1A1A2E?style=for-the-badge&logo=codeforces&logoColor=FFD700&labelColor=0D0D1A)
-![Open Source](https://img.shields.io/badge/Open%20Source-1A1A2E?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639&labelColor=0D0D1A)
-
-### 〔 Tools & Platforms 〕
-
-<img src="https://skillicons.dev/icons?i=vscode,github,docker,vercel,figma,postman&perline=6" />
+> 🎵 **Setup:** Visit [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) → Login with Spotify → Replace `YOUR_SPOTIFY_USER_ID` above with your actual Spotify UID.
 
 </div>
 
@@ -184,19 +125,76 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              WHAT I'M UP TO — ACTIVITY SECTION                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                      TECH STACK                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> What I'm Currently Up To
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Arsenal
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
-|:---:|:---:|:---:|:---:|
-| Full-Stack SaaS Platform | Cloud Architecture & AWS | Cybersecurity & Pentesting | I sleep-debug in my dreams |
-| GestureGames (CV + Unity) | Advanced Penetration Testing | Competitive Programming | Coffee → Code → Repeat ☕ |
-| Open Source Tools | System Design Patterns | Full-Stack Web Dev | Linux is my comfort zone 🐧 |
+### ⟨ Languages & Core Skills ⟩
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48"/><br/><sub><b>Bash</b></sub>
+</td>
+</tr>
+</table>
+
+### ⟨ Databases & Operating Systems ⟩
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48"/><br/><sub><b>Ubuntu</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br/><sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
+
+### ⟨ Tools & IDE ⟩
+
+<img src="https://skillicons.dev/icons?i=vscode,vim,figma,vercel,netlify,postman&perline=6"/>
+
+### ⟨ Domain Expertise ⟩
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Ethical%20Hacking](https://img.shields.io/badge/Ethical%20Hacking-%230D1117?style=for-the-badge&logo=kalilinux&logoColor=FF6B6B)
+![Penetration%20Testing](https://img.shields.io/badge/Penetration%20Testing-%230D1117?style=for-the-badge&logo=metasploit&logoColor=E95420)
+![Web%20Development](https://img.shields.io/badge/Web%20Development-%230D1117?style=for-the-badge&logo=googlechrome&logoColor=41BDF5)
+![Competitive%20Programming](https://img.shields.io/badge/Competitive%20Programming-%230D1117?style=for-the-badge&logo=codeforces&logoColor=FFD700)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-%230D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639)
 
 </div>
 
@@ -206,21 +204,43 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                   WAKATIME CODING STATS                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"/> GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;⏱️ WakaTime — Weekly Coding Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hacker-oss-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-oss-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="GitHub Streak"/>
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitGud&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&icon_color=7B2FBE&layout=compact&langs_count=10)](https://wakatime.com/@GitGud)
+
+<br/>
+
+[![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)](https://wakatime.com/@GitGud)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                    GITHUB ANALYTICS                                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp;📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hacker-oss-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-oss-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE&sideLabels=7B2FBE&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-oss-ux&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8" width="38%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-oss-ux&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=6E40C960" width="58%" alt="Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-oss-ux&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="32%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-oss-ux&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=ffffff&area=true&hide_border=true&area_color=7B2FBE60&custom_title=Contribution+Activity" width="64%"/>
 
 </div>
 
@@ -230,15 +250,21 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 PROFILE SUMMARY CARDS                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="30"/> GitHub Trophies
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/> &nbsp;📋 Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hacker-oss-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacker-oss-ux&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hacker-oss-ux&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hacker-oss-ux&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hacker-oss-ux&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
@@ -248,21 +274,41 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION SNAKE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                    TROPHIES                                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Contribution Graph — Snake Edition 🐍
+## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hacker-oss-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--               CONTRIBUTION SNAKE                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🐍 Eating My Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
 </picture>
-
-> 💡 **Pro tip:** Enable GitHub Actions in your profile repo to animate the snake with your real contributions!
 
 </div>
 
@@ -272,46 +318,61 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              COMPETITIVE PROGRAMMING                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--              COMPETITIVE PROGRAMMING                                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"/> Competitive Programming
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="28"/> &nbsp;🏅 Competitive Programming
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="190">
 
 ### LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-🔥 Solving daily challenges
+🔥 Daily Challenges
+⚡ DSA Grinder
 
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 
 ### Codeforces
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-⚡ Rated competitor
+💡 Rated Competitor
+🎯 Contest Regular
 
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
-🌟 Multi-star achiever
+⭐ Multi-Star Badges
+📊 Problem Solver
 
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 
 ### HackTheBox
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com/)
-🔐 CTF & Pentesting
+🔐 CTF Champion
+🧠 Pentester
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              PROBLEM SOLVING PHILOSOPHY                      ║
+║                                                              ║
+║   "First, solve the problem. Then, write the code."         ║
+║                              — John Johnson                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -321,11 +382,11 @@ const ajayGirish: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                   FEATURED PROJECTS                                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"/> Featured Projects
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"/> &nbsp;🚀 Featured Projects
 
 <div align="center">
 
@@ -333,40 +394,48 @@ const ajayGirish: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 GestureGames
-> **Control reality with your hands**
+<h3>🎮 GestureGames</h3>
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-CV%20%2B%20Gaming-purple?style=flat-square"/>
 
-A computer-vision powered gaming system that replaces traditional controllers with hand gestures. Real-time gesture recognition meets immersive gameplay.
+> Control games with your **hands** — zero controller needed.
 
-**Highlights:**
-- 🖐️ Real-time hand tracking (MediaPipe/OpenCV)
-- 🎮 Unity game engine integration
-- ⚡ <30ms gesture latency
-- 🧠 Custom gesture classification model
+A computer-vision powered gaming system that maps real-time hand gestures to in-game actions using MediaPipe + Unity.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker-oss-ux)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**✨ Highlights:**
+- 🖐️ Real-time 21-landmark hand tracking
+- 🎮 Full Unity integration via WebSockets
+- ⚡ Sub-30ms gesture detection latency
+- 🧠 Custom gesture classification pipeline
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker-oss-ux)
+
+`Python` `OpenCV` `MediaPipe` `Unity` `C#` `WebSocket`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ SaaS Platform *(Stealth Mode)*
-> **Something big is coming...**
+<h3>🏗️ SaaS Platform <sup><i>stealth</i></sup></h3>
+<img src="https://img.shields.io/badge/Status-Stealth%20Mode-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Full--Stack%20SaaS-blue?style=flat-square"/>
 
-A full-stack SaaS platform being engineered from the ground up — combining a blazing-fast backend, beautiful UI, and enterprise-grade architecture.
+> Something game-changing is being crafted... 🔮
 
-**Highlights:**
-- 🔐 Auth & multi-tenancy
+A production-grade SaaS platform engineered with enterprise architecture, edge deployment, and a beautiful UI from day one.
+
+**✨ Highlights:**
+- 🔐 JWT Auth + RBAC multi-tenancy
 - 📊 Real-time analytics dashboard
-- 🚀 Edge-deployed globally
-- 💳 Subscription billing integration
+- 🌍 Globally edge-deployed via Vercel
+- 💳 Stripe subscription billing
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](#)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+
+[![Coming Soon](https://img.shields.io/badge/🚀_Coming_Soon-FF5722?style=for-the-badge)](#)
+
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Stripe`
 
 </td>
 </tr>
@@ -380,34 +449,64 @@ A full-stack SaaS platform being engineered from the ground up — combining a b
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CYBERSECURITY SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--              CYBERSECURITY SECTION                                   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="30"/> Cybersecurity Arsenal
+## <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="28"/> &nbsp;🔐 Cybersecurity Arsenal
 
 <div align="center">
 
 ```bash
-╔═══════════════════════════════════════════════════════════╗
-║              SECURITY TOOLKIT                             ║
-╠═══════════════════════════════════════════════════════════╣
-║  🛡️  Penetration Testing   │  Kali Linux, Metasploit     ║
-║  🔍  Reconnaissance        │  Nmap, Shodan, Recon-ng     ║
-║  🌐  Web App Security      │  Burp Suite, OWASP Top 10   ║
-║  🔐  Cryptography          │  Hash analysis, PKI          ║
-║  🎯  CTF Competitions      │  HackTheBox, TryHackMe      ║
-║  📡  Network Analysis      │  Wireshark, Tcpdump         ║
-╚═══════════════════════════════════════════════════════════╝
+┌──(hacker-oss-ux㉿kali)-[~/security-toolkit]
+└─$ ls -la
+
+drwxr-xr-x  pentesting/      → Kali Linux, Metasploit, Nmap, Netcat
+drwxr-xr-x  web-security/    → Burp Suite, SQLMap, XSStrike, OWASP ZAP
+drwxr-xr-x  recon/           → Shodan, Recon-ng, theHarvester, Maltego
+drwxr-xr-x  cryptography/    → Hash cracking, PKI, OpenSSL, John the Ripper
+drwxr-xr-x  network/         → Wireshark, Tcpdump, Nessus, Aircrack-ng
+drwxr-xr-x  ctf/             → HackTheBox, TryHackMe, PicoCTF, CTFtime
+-rwxr-xr-x  philosophy.txt   → "Hack to learn. Don't learn to hack."
 ```
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=E95420)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+**🛡️ Defensive**
+![Firewall](https://img.shields.io/badge/Firewall-Config-4CAF50?style=flat-square&logo=cisco)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Snort-4CAF50?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-4CAF50?style=flat-square&logo=splunk)
+
+</td>
+<td align="center">
+
+**⚔️ Offensive**
+![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-E95420?style=flat-square)
+![Burp](https://img.shields.io/badge/Burp-Suite-FF6633?style=flat-square&logo=burpsuite)
+
+</td>
+<td align="center">
+
+**🔍 Recon**
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-1F8ACB?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-OSINT-FF0000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=flat-square&logo=wireshark)
+
+</td>
+</tr>
+</table>
+
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
@@ -417,11 +516,31 @@ A full-stack SaaS platform being engineered from the ground up — combining a b
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DEV QUOTE                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 GITHUB SKYLINE 3D                                    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6om0Sk2/giphy.gif" width="30"/> Dev Wisdom of the Day
+## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏙️ GitHub Skyline — My Contribution City
+
+<div align="center">
+
+> 🌆 **View your 3D contribution skyline:** [skyline.github.com/hacker-oss-ux](https://skyline.github.com/hacker-oss-ux)
+
+[![3D Skyline](https://img.shields.io/badge/🏙️_View_3D_Skyline-181717?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/hacker-oss-ux)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                   DEV QUOTE                                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6om0Sk2/giphy.gif" width="28"/> &nbsp;💬 Dev Wisdom
 
 <div align="center">
 
@@ -435,97 +554,87 @@ A full-stack SaaS platform being engineered from the ground up — combining a b
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 CONNECT WITH ME                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect & Collaborate
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🌐 Let's Connect & Build Together
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ajay-girish-2a4496379/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ajay-girish-2a4496379/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://x.com/AjayGirish18035">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+<a href="https://x.com/AjayGirish18035" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://ajaygirish-porfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://ajaygirish-porfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:ajaygirish025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:ajaygirish025@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/hacker-oss-ux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://wakatime.com/@GitGud" target="_blank">
+  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/hacker-oss-ux" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💬 Open to:
+### 🤝 Open to collaborating on:
 
-<table>
-<tr>
-<td align="center">🤝<br/><b>Collaborations</b></td>
-<td align="center">🔐<br/><b>Security Projects</b></td>
-<td align="center">💡<br/><b>SaaS Ideas</b></td>
-<td align="center">🏆<br/><b>Hackathons</b></td>
-<td align="center">🎯<br/><b>Open Source</b></td>
-</tr>
-</table>
+| 🔐 Security Research | 🌐 Full-Stack Web Apps | 🏆 Hackathons | 💡 SaaS Products | 🎯 Open Source |
+|:---:|:---:|:---:|:---:|:---:|
+| Pentesting, CTFs | React, Node, Postgres | Team competitions | Stealth or public | PRs welcome |
+
+<br/>
+
+> 💌 **Best way to reach me:** [ajaygirish025@gmail.com](mailto:ajaygirish025@gmail.com) or DM on [LinkedIn](https://www.linkedin.com/in/ajay-girish-2a4496379/)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               PROFILE SUMMARY CARD                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"/> Profile Summary
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                     FOOTER                                           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacker-oss-ux&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hacker-oss-ux&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hacker-oss-ux&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hacker-oss-ux&theme=tokyonight&utcOffset=5.5" width="32%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  FOOTER                                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
 <br/>
 
 ```
-  ╔════════════════════════════════════════════════════════╗
-  ║   "The quieter you become, the more you can hear."    ║
-  ║                      — Kali Linux                     ║
-  ╚════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  "The quieter you become, the more you can hear."            ║
+  ║                              — Kali Linux Motto              ║
+  ║                                                               ║
+  ║  "It's not a bug, it's an undocumented feature." — Anonymous ║
+  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**⭐ If any of my work helped you, consider leaving a star — it means the world! 🌍**
+<br/>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+&nbsp;
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+&nbsp;
 <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+
+<br/><br/>
+
+**⭐ If any of my work helped you — drop a star. It fuels me more than coffee! ☕🌟**
+
+<br/>
+
+*Last updated: Auto-refreshes via GitHub Actions 🤖*
 
 </div>
