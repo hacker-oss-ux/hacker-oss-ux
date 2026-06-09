@@ -210,11 +210,7 @@
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitGud&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&icon_color=7B2FBE&layout=compact&langs_count=10)](https://wakatime.com/@GitGud)
-
-<br/>
-
-[![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)](https://wakatime.com/@GitGud)
+[![WakaTime](https://img.shields.io/badge/WakaTime-GitGud-black?style=for-the-badge&logo=wakatime&logoColor=white&color=7B2FBE)](https://wakatime.com/@GitGud)
 
 </div>
 
