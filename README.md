@@ -307,8 +307,7 @@
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"
-    width="100%"/>
+    src="https://raw.githubusercontent.com/hacker-oss-ux/hacker-oss-ux/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/><br/>
