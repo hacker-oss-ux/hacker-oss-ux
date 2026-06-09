@@ -18,7 +18,7 @@
 <!--                         HERO BANNER                                  -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Ajay%20Girish&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C%20Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Competitive%20Coder%20%2F%3E&descSize=20&descAlignY=60&descAlign=50&stroke=7B2FBE&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Ajay%20Girish&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9F%A8%20Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20Competitive%20Coder%20%E2%9F%A9&descSize=20&descAlignY=60&descAlign=50&stroke=7B2FBE&strokeWidth=3" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!--                      TYPING ANIMATION                                -->
@@ -38,7 +38,7 @@
 [![Followers](https://img.shields.io/github/followers/hacker-oss-ux?style=for-the-badge&color=7B2FBE&logo=github&logoColor=white&label=Followers)](https://github.com/hacker-oss-ux?tab=followers)
 [![Stars](https://img.shields.io/github/stars/hacker-oss-ux?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=⭐+Stars)](https://github.com/hacker-oss-ux)
 ![Open to Work](https://img.shields.io/badge/💼_Open_To-Collaborate-00C851?style=for-the-badge)
-![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)
+[![WakaTime](https://img.shields.io/badge/WakaTime-GitGud-black?style=for-the-badge&logo=wakatime&logoColor=white&color=7B2FBE)](https://wakatime.com/@GitGud)
 
 </div>
 
