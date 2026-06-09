@@ -228,13 +228,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hacker-oss-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-oss-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE&sideLabels=7B2FBE&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-oss-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE&sideLabels=7B2FBE&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-oss-ux&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="32%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-oss-ux&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=ffffff&area=true&hide_border=true&area_color=7B2FBE60&custom_title=Contribution+Activity" width="64%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker-oss-ux&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=ffffff&area=true&hide_border=true&area_color=7B2FBE60&custom_title=Contribution+Activity" width="100%"/>
 
 <br/><br/>
 
