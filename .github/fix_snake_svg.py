@@ -1,3 +1,4 @@
+# fix_snake_svg.py — post-processes generated snake SVGs to clip top margin and trim right edge
 import re, glob
 
 for svg_file in glob.glob('dist/github-contribution-grid-snake*.svg'):
