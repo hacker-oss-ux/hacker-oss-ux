@@ -52,7 +52,7 @@
 <!--                        ABOUT ME                                      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;`whoami`
+## 👤 `whoami`
 
 <img align="right" alt="Hacker Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -109,7 +109,7 @@
 <!--                     SPOTIFY NOW PLAYING                              -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6om0Sk2/giphy.gif" width="28"/> &nbsp;Vibe Check — Now Playing 🎵
+## 🎵 Vibe Check — Now Playing
 
 <div align="center">
 
@@ -127,7 +127,7 @@
 <!--                      TECH STACK                                      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -206,7 +206,7 @@
 <!--                   WAKATIME CODING STATS                              -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;⏱️ WakaTime — Weekly Coding Stats
+## ⏱️ WakaTime — Weekly Coding Stats
 
 <div align="center">
 
@@ -228,7 +228,7 @@
 <!--                    GITHUB ANALYTICS                                  -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp;📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -259,7 +259,7 @@
 <!--                 PROFILE SUMMARY CARDS                                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/> &nbsp;📋 Profile Summary
+## 📋 Profile Summary
 
 <div align="center">
 
@@ -283,7 +283,7 @@
 <!--                    TROPHIES                                          -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
 
@@ -307,7 +307,7 @@
 <!--               CONTRIBUTION SNAKE                                     -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🐍 Contribution Skyline & Snake
+## 🐍 Contribution Skyline & Snake
 
 <div align="center">
 
@@ -339,7 +339,7 @@
 <!--              COMPETITIVE PROGRAMMING                                 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="28"/> &nbsp;🏅 Competitive Programming
+## 🏅 Competitive Programming
 
 <div align="center">
 
@@ -413,7 +413,7 @@
 <!--                   FEATURED PROJECTS                                  -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"/> &nbsp;🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -480,7 +480,7 @@ A production-grade SaaS platform engineered with enterprise architecture, edge d
 <!--              CYBERSECURITY SECTION                                   -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="28"/> &nbsp;🔐 Cybersecurity Arsenal
+## 🔐 Cybersecurity Arsenal
 
 <div align="center">
 
@@ -547,7 +547,7 @@ drwxr-xr-x  ctf/             → HackTheBox, TryHackMe, PicoCTF, CTFtime
 <!--                 GITHUB SKYLINE 3D                                    -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/3oFzmrl9oPMqepEWRy/giphy.gif" width="28"/> &nbsp;🏙️ GitHub Skyline — My Contribution City
+## 🏙️ GitHub Skyline — My Contribution City
 
 <div align="center">
 
@@ -567,7 +567,7 @@ drwxr-xr-x  ctf/             → HackTheBox, TryHackMe, PicoCTF, CTFtime
 <!--                   DEV QUOTE                                          -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6om0Sk2/giphy.gif" width="28"/> &nbsp;💬 Dev Wisdom
+## 💬 Dev Wisdom
 
 <div align="center">
 
@@ -585,7 +585,7 @@ drwxr-xr-x  ctf/             → HackTheBox, TryHackMe, PicoCTF, CTFtime
 <!--                 CONNECT WITH ME                                      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;🌐 Let's Connect & Build Together
+## 🌐 Let's Connect & Build Together
 
 <div align="center">
 
