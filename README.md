@@ -38,7 +38,7 @@
 [![Followers](https://img.shields.io/github/followers/hacker-oss-ux?style=for-the-badge&color=7B2FBE&logo=github&logoColor=white&label=Followers)](https://github.com/hacker-oss-ux?tab=followers)
 [![Stars](https://img.shields.io/github/stars/hacker-oss-ux?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=⭐+Stars)](https://github.com/hacker-oss-ux)
 ![Open to Work](https://img.shields.io/badge/💼_Open_To-Collaborate-00C851?style=for-the-badge)
-![WakaTime](https://wakatime.com/badge/user/hacker-oss-ux.svg?style=for-the-badge)
+![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)
 
 </div>
 
@@ -210,11 +210,11 @@
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hacker-oss-ux&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&icon_color=7B2FBE&layout=compact&langs_count=10)](https://wakatime.com/@hacker-oss-ux)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitGud&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=c9d1d9&icon_color=7B2FBE&layout=compact&langs_count=10)](https://wakatime.com/@GitGud)
 
 <br/>
 
-[![WakaTime](https://wakatime.com/badge/user/hacker-oss-ux.svg?style=for-the-badge)](https://wakatime.com/@hacker-oss-ux)
+[![WakaTime](https://wakatime.com/badge/user/GitGud.svg?style=for-the-badge)](https://wakatime.com/@GitGud)
 
 </div>
 
@@ -356,7 +356,7 @@
 <td align="center" width="190">
 
 ### Codeforces
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hacker-oss-ux)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 💡 Rated Competitor
 🎯 Contest Regular
 
@@ -364,7 +364,7 @@
 <td align="center" width="190">
 
 ### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/hacker-oss-ux)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ajaygirish025)
 ⭐ Multi-Star Badges
 📊 Problem Solver
 
@@ -372,7 +372,7 @@
 <td align="center" width="190">
 
 ### HackTheBox
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/hacker-oss-ux)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/)
 🔐 CTF Champion
 🧠 Pentester
 
@@ -605,7 +605,7 @@ drwxr-xr-x  ctf/             → HackTheBox, TryHackMe, PicoCTF, CTFtime
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://wakatime.com/@hacker-oss-ux" target="_blank">
+<a href="https://wakatime.com/@GitGud" target="_blank">
   <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
 </a>
 &nbsp;
