@@ -281,10 +281,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hacker-oss-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" width="100%"/>
-
-<br/><br/>
-
 ### ⟨ Holopin Achievements Board ⟩
 
 [![@hackerossux's Holopin board](https://holopin.me/hackerossux)](https://holopin.io/@hackerossux)
